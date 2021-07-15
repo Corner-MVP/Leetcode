@@ -4,7 +4,7 @@ This is a notebook for leetcode questions.
 
 | #   | title | solution | markdown |difficulty |
 |:-:  |:-----:|----------| :-------:|:---------:|
-|1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[JavaScript](./algorithm/JavaScript/MaximumElementAfterDecreasingAndRearranging.js)|[CN](./markdown/MaximumElementAfterDecreasingAndRearranging.md)|Medium|
+|1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[JavaScript](./algorithm/JavaScript/MaximumElementAfterDecreasingAndRearranging.js)|[CN](./algorithm/markdown/MaximumElementAfterDecreasingAndRearranging.md)|Medium|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[JavaScript](./algorithm/JavaScript/MinimumAbsoluteSumDifference.js)|[CN](./algorithm/markdown/MinimumAbsoluteSumDifference.md)|Medium|
 |1418|[Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)|[Python](./algorithm/python/DisplayTableOfFoodOrdersInARestaurant.py), [JavaScript](./algorithm/JavaScript/DisplayTableOfFoodOrdersInARestaurant.js)||Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[JavaScript](./algorithm/JavaScript/TimeBasedKey-ValueStore.js)||Medium|
