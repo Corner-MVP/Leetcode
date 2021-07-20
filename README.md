@@ -4,6 +4,7 @@ This is a notebook for algorithm questions.
 ## Leetcode
 | Number | title | solution | markdown |difficulty |
 |:-:  |:-----:|:---------:| :-------:|:---------:|
+|1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Python](./algorithm/python/MinimizeMaximumPairSumInArray.py), [JavaScript](./algorithm/JavaScript/MinimizeMaximumPairSumInArray.js)||Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[JavaScript](./algorithm/JavaScript/MaximumElementAfterDecreasingAndRearranging.js)|[1846_CN](./algorithm/markdown/1846_CN.md)|Medium|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[JavaScript](./algorithm/JavaScript/MinimumAbsoluteSumDifference.js)|[1818_CN](./algorithm/markdown/1818_CN.md)|Medium|
 |1418|[Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/)|[Python](./algorithm/python/DisplayTableOfFoodOrdersInARestaurant.py), [JavaScript](./algorithm/JavaScript/DisplayTableOfFoodOrdersInARestaurant.js)||Medium|
@@ -25,5 +26,3 @@ This is a notebook for algorithm questions.
 |Number|Title|Solution|Idea|Difficulty|
 |:----:|:---:|:------:|:--:|:--------:|
 |7|[传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/)|[Python](./algorithm/python/deliverMessage.py), [JavaScript](./algorithm/JavaScript/deliverMessage.js)||Easy|
-
-ConjugationPhrase
