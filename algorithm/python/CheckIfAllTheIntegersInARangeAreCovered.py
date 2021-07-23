@@ -1,0 +1,15 @@
+class Solution:
+    def isCovered(self, ranges, left, right):
+
+        diff = [0 for _ in range(52)]
+        for l, r in ranges:
+            diff[l] += 1
+            diff[r+1] -= 1
+        
+        curr = 0
+        for i in range(1, 51):
+            curr += diff[i]
+            if left <= i <= right and curr <= 0:
+                return False
+        
+        return True
