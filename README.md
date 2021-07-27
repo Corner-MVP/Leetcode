@@ -2,8 +2,9 @@
 This is a notebook for algorithm questions.
 
 ## Leetcode
-| Number | title | solution | markdown |difficulty |
+| Number | title | solution | Idea |difficulty |
 |:-:  |:-----:|:---------:| :-------:|:---------:|
+|1893|[Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/)|[Python](./algorithm/python/CheckIfAllTheIntegersInARangeAreCovered.py), [JavaScript](./algorithm/JavaScript/CheckIfAllTheIntegersInARangeAreCovered.js)|[1893_CN](./algorithm/markdown/1893_CN.md), [1893_EN](./algorithm/markdown/1893_EN.md)|Easy|
 |1877|[Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[Python](./algorithm/python/MinimizeMaximumPairSumInArray.py), [JavaScript](./algorithm/JavaScript/MinimizeMaximumPairSumInArray.js)|[1877_CN](./algorithm/markdown/1877_CN), [1877_EN](./algorithm/markdown/1877_EN)|Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[JavaScript](./algorithm/JavaScript/MaximumElementAfterDecreasingAndRearranging.js)|[1846_CN](./algorithm/markdown/1846_CN.md)|Medium|
 |1818|[Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)|[JavaScript](./algorithm/JavaScript/MinimumAbsoluteSumDifference.js)|[1818_CN](./algorithm/markdown/1818_CN.md)|Medium|
