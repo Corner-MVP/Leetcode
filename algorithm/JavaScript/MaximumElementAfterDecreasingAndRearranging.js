@@ -4,7 +4,7 @@ var maximumElementAfterDecrementingAndRearranging = function(arr) {
     const res = [1]
 
     for (let i = 1; i < arr.length; i++) {
-        target = res[i-1] + 1
+        const target = res[i-1] + 1
         if (arr[i] >= target) {
             res.push(target)
         } else {
