@@ -10,6 +10,3 @@ class Solution:
         index += 1
       
       return res
-
-test = Solution()
-nums = []
