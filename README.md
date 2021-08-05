@@ -1,6 +1,8 @@
 # Algorithm
 This is a notebook for algorithm questions.
 
+**Since github's markdown is unable to display math formula, therefore, I recommend to use chrome broswer and install [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) for better viewing effect.**
+
 ## Leetcode
 | Number | title | solution | Idea |difficulty |
 |:-:  |:-----:|:---------:| :-------:|:---------:|
@@ -17,10 +19,13 @@ This is a notebook for algorithm questions.
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[JavaScript](./algorithm/JavaScript/TimeBasedKey-ValueStore.js)||Medium|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[JavaScript](./algorithm/JavaScript/BinarySubarraysWithSum.js)||Medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](./algorithm/python/AllNodesDistanceKInBinaryTree.py), [JavaScript](./algorithm/JavaScript/AllNodesDistanceKInBinaryTree.js)|[863_CN](./algorithm/markdown/863/863_CN.md), [863_EN](./algorithm/markdown/863/863_EN.md)|Medium|
+|802||||Medium|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[JavaScript](./algorithm/JavaScript/NumberOfAtoms.js)||Hard|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithm/python/SecondMinimumNodeInABinaryTree.py), [JavaScript](./algorithm/JavaScript/SecondMinimumNodeInABinaryTree.js)|[671_CN](./algorithm/markdown/671/671_CN.md), [671_EN](./algorithm/markdown/671/671_EN.md)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](./algorithm/python/ShortestUnsortedContinuousSubarray.py), [JavaScript](./algorithm/JavaScript/ShortestUnsortedContinuousSubarray.js)|[581_CN](./algorithm/markdown/581/581_CN.md), [581_EN](./algorithm/markdown/581/581_EN.md)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](./algorithm/python/SerializeAndDeserializeBinaryTree.py), [JavaScript](./algorithm/python/SerializeAndDeserializeBinaryTree.py)||Hard|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](./algorithm/python/CourseScheduleII.py), [JavaScript](./algorithm/JavaScript/CourseScheduleII.js)|[210_CN](./algorithm/markdown/210/210_CN.md), [210_EN](./algorithm/markdown/210/210_EN.md)|Medium|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](./algorithm/python/CourseSchedule.py), [JavaScript](./algorithm/JavaScript/CourseSchedule.js)|[207_CN](./algorithm/markdown/207/207_CN.md), [207_EN](./algorithm/markdown/207/207_EN.md)|Medium|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](./algorithm/python/ExcelSheetColumnNumber.py), [JavaScript](./algorithm/JavaScript/ExcelSheetColumnNumber.js)|[171_CN](./algorithm/markdown/171/171_CN.md), [171_EN](./algorithm/markdown/171/171_EN.md)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./algorithm/python/IntersectionOfTwoLinkedLists.py), [JavaScript](./algorithm/JavaScript/IntersectionOfTwoLinkedLists.js)|[160_CN](./algorithm/markdown/160/160_CN), [160_EN](./algorithm/markdown/160/160_EN)|Easy|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](./algorithm/python/CopyListWithRandomPointer.py), [JavaScript](./algorithm/JavaScript/CopyListWithRandomPointer.js)|[138_CN](./algorithm/markdown/138/138_CN.md), [138_EN](./algorithm/markdown/138/138_EN.md)|Medium|
