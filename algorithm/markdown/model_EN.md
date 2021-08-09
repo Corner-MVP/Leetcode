@@ -4,8 +4,14 @@
 
 ## Examples
 ### example 1
+```
+
+```
 
 ### example 2
+```
+
+```
 
 ### constraints
 
@@ -13,7 +19,15 @@
 
 ## Code
 ### Python
+```
+
+```
 
 ### JavaScript
+```
+
+```
 
 ## Time and space complexity
+- time complexity:
+- space complexity:
