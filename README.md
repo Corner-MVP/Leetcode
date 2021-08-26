@@ -18,6 +18,7 @@ This is a notebook for algorithm questions.
 |1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)|[Python](./algorithm/python/PathInZigzagLabelledBinaryTree.py), [JavaScript](./algorithm/JavaScript/PathInZigzagLabelledBinaryTree.js)|[1104_CN](./algorithm/markdown/1104_CN.md), [1104_EN](./algorithm/markdown/1104_EN.md)|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[JavaScript](./algorithm/JavaScript/TimeBasedKey-ValueStore.js)||Medium|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[JavaScript](./algorithm/JavaScript/BinarySubarraysWithSum.js)||Medium|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](./algorithm/python/BoatsToSavePeople.py), [JavaScript](./algorithm/JavaScript/BoatsToSavePeople.js)|[881_EN](./algorithm/markdown/881/881_EN.md), [881_CN](./algorithm/markdown/881/881_CN.md)|Medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Python](./algorithm/python/AllNodesDistanceKInBinaryTree.py), [JavaScript](./algorithm/JavaScript/AllNodesDistanceKInBinaryTree.js)|[863_CN](./algorithm/markdown/863/863_CN.md), [863_EN](./algorithm/markdown/863/863_EN.md)|Medium|
 |802||||Medium|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[JavaScript](./algorithm/JavaScript/NumberOfAtoms.js)||Hard|
