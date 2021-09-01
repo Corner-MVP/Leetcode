@@ -40,6 +40,7 @@ This is a notebook for algorithm questions.
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](./algorithm/python/CopyListWithRandomPointer.py), [JavaScript](./algorithm/JavaScript/CopyListWithRandomPointer.js)|[138_CN](./algorithm/markdown/138/138_CN.md), [138_EN](./algorithm/markdown/138/138_EN.md)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./algorithm/python/MaximumSubarray.py), [JavaScript](./algorithm/JavaScript/MaximumSubarray.js)|[53_CN](./algorithm/markdown/53/53_CN.md), [53_EN](./algorithm/markdown/53/53_EN.md)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python]('./../algorithm/python/FindFirstAndLastPositionOfElementInSortedArray.py), [JavaScript]('./../algorithm/JavaScript/FindFirstAndLastPositionOfElementInSortedArray.js)|[34_CN]('./../algorithm/markdown/34/34_CN.md), [34_EN]('./../algorithm/markdown/34/34_EN.md)| Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./algorithm/python/RemoveNthNodeFromEndOfList.py), [JavaScript](./algorithm/JavaScript/RemoveNthNodeFromEndOfList.js)|[19_CN](./algorithm/markdown/19/19_CN.md), [19_EN](./algorithm/markdown/19/19_EN.md)|Medium|
 
 ## Cracking the Coding Interview
 
