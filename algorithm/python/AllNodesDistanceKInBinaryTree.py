@@ -18,7 +18,7 @@ class Solution:
                 getParent(node.right)
 
         getParent(root)
-        print(parent)
+
         def getRes(node, pre, depth):
             if not node: return
             
